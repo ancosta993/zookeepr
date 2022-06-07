@@ -108,6 +108,16 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Anthony",
+      "species": "Whale",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "hungry",
+        "loving"
+      ],
+      "id": "11"
     }
   ]
 }
